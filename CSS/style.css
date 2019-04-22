@@ -18,7 +18,7 @@ header {
 	width: 100%;
 }
 
-h1 {
+header figure {
 	float: left;
 }
 
@@ -134,13 +134,14 @@ footer {
 	text-decoration: none;
 	text-align: center;
 }
+
 footer a {
 	margin-top: -50px;
-	size: 20px;
 }
 
 @media screen and (max-width: 1000px) {
   body {
     background-color: #778899;
     color: white;
-  }
+}
+}
