@@ -115,7 +115,7 @@ section {
 .wrap2 {
 	background: black;
 	width: 100%;
-	height: 80px;
+	height: 13	0px;
 	margin-top: 20px;
 }
 
@@ -124,3 +124,12 @@ footer {
 	text-decoration: none;
 	text-align: center;
 }
+footer a {
+	margin-top: -50px;
+}
+
+@media screen and (max-width: 1000px) {
+  body {
+    background-color: #778899;
+    color: white;
+  }
