@@ -115,11 +115,7 @@ section {
 .wrap2 {
 	background: black;
 	width: 100%;
-<<<<<<< HEAD
-	height: 13	0px;
-=======
-	height: 80px;
->>>>>>> 2c8b3f085340b830394cce1bf2632b0c8c1ca936
+	height: 130px;
 	margin-top: 20px;
 }
 
@@ -128,7 +124,6 @@ footer {
 	text-decoration: none;
 	text-align: center;
 }
-<<<<<<< HEAD
 footer a {
 	margin-top: -50px;
 }
@@ -138,5 +133,3 @@ footer a {
     background-color: #778899;
     color: white;
   }
-=======
->>>>>>> 2c8b3f085340b830394cce1bf2632b0c8c1ca936
